@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "vinsmok",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "vinsmok",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "parunth jacob",
+        "loli kinnu"
       ]
     },
     "chat-log": true,
@@ -44,7 +43,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
